@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/the.one.samjones/Desktop/CSC - 140/Project 1/Module 2/Greeting'
+relocations:     []
+...
